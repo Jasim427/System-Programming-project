@@ -1,6 +1,6 @@
 # Programming-System-project
 
-##PROJECT MEMBER: 
+## PROJECT MEMBER: 
 
 - Project Manager : JASIM ABDULLAH
 
@@ -8,9 +8,10 @@
 
 - 3rd Student : HASAN FIRAS MOHAMMED ZAKI
 
-#Project Objective
 
-##The main objective is to develop a distributed system using Ubuntu, Git, GitHub, and Docker technologies. The project specifically aims to:
+# Project Objective
+
+## The main objective is to develop a distributed system using Ubuntu, Git, GitHub, and Docker technologies. The project specifically aims to:
 
 Develop Core Skills: Enhance your teamwork, version control, containerization, and system programming skills.
 
