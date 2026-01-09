@@ -1,0 +1,3 @@
+/home/ubuntu/student-system/build/CMakeFiles/student_app.dir
+/home/ubuntu/student-system/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/student-system/build/CMakeFiles/rebuild_cache.dir
